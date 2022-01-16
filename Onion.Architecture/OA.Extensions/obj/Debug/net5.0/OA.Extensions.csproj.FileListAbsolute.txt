@@ -22,3 +22,15 @@ C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\
 C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.dll
 C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\ref\OA.Extensions.dll
 C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.pdb
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\bin\Debug\net5.0\OA.Extensions.deps.json
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\bin\Debug\net5.0\OA.Extensions.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\bin\Debug\net5.0\ref\OA.Extensions.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\bin\Debug\net5.0\OA.Extensions.pdb
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.csproj.AssemblyReference.cache
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.AssemblyInfoInputs.cache
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.AssemblyInfo.cs
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.csproj.CoreCompileInputs.cache
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\ref\OA.Extensions.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.Extensions\obj\Debug\net5.0\OA.Extensions.pdb
