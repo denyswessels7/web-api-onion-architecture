@@ -5,12 +5,13 @@ using OA.Core.Interfaces;
 using OA.Data;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using Xunit;
 
 namespace OA.Api.Tests
 {
-    public class CustomerControllerTests
+    public class CustomerControllerTests : BaseTest
     {
         //Following a simple three step tests system(AAA):
         //1.Arrange
@@ -33,6 +34,11 @@ namespace OA.Api.Tests
             //Assert
             var result = actionResults as OkObjectResult;
             var resultCustomers = result.Value as IEnumerable<Customer>;
+
+            var ok = base[HttpStatusCode.OK];
+            Assert.NotNull(result);
+            Assert.NotNull(resultCustomers);
+            Assert.Equal(ok, result.StatusCode);
             Assert.Equal(count, resultCustomers.Count());
         }
 
@@ -50,7 +56,11 @@ namespace OA.Api.Tests
 
             var result = actionResults as OkObjectResult;
             var customer = result.Value as Customer;
+            
+            var ok = base[HttpStatusCode.OK];
+            Assert.NotNull(result);
             Assert.NotNull(customer);
+            Assert.Equal(ok, result.StatusCode);
             Assert.Equal(id, customer.Id);
         }
 
@@ -67,8 +77,9 @@ namespace OA.Api.Tests
             var actionResults = await controller.GetById(id);
 
             var result = actionResults as NotFoundResult;
+            var notFound = base[HttpStatusCode.NotFound];
             Assert.NotNull(result);
-            Assert.Equal(404, result.StatusCode);
+            Assert.Equal(notFound, result.StatusCode);
         }
 
         [Fact]
@@ -86,7 +97,9 @@ namespace OA.Api.Tests
 
             //Assert
             var result = actionResults as CreatedResult;
+            var created = base[HttpStatusCode.Created];
             Assert.NotNull(result);
+            Assert.Equal(created, result.StatusCode);
             Assert.Equal(expectedId, (int)result.Value);
         }
 

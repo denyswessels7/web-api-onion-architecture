@@ -24,9 +24,7 @@ C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.U
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.UI.TagHelpers.output.cache
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.UI.RazorCoreGenerate.cache
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.UI.RazorTargetAssemblyInfo.cache
