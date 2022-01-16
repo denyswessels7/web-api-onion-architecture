@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMFMbshrauzh3X7cNE4cykYJ5FlFr1TEep1uQR6jIW4wJMF5TYMjUru55EFAZrD0pWe5dLIL4z9h6uYPH/tG1A==",
+  "dgSpecHash": "tLyX2+2ZakFjzNL9iB/X7d/3ZzM9uQIQnOtv0o7cjnfXiA6RQq8nKz3wwu5jysHJNfOXcoh0ZwjluC78dl9IoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
+  "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9GLUM19cFKJ21x0TF+jz7McPL0YN6N0X0pBQWJpsmTUw3O8IHZWs4uTNhccWNSvyMLV3nq6nIyI/3V7dJACEw==",
+  "dgSpecHash": "Xv2xd9eTkvwSx7lgrYGTXgP4cBf+1lx3RiuHm8Dg45ar+rT6f4mirNDxRbpRdmwLJ+rpF2aQRhQ14ms1e5k26Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
+  "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

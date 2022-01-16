@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PT7CLpWepgv0pZLSkh7FpLYNQ72eIyxA/NI+248HJ5RuAvDb5zbKWYhurEHvy+84A5D6KkVt/5GxPXrxjTHsgQ==",
+  "dgSpecHash": "3PR58QWchrAH5tGMnKufZI+a23wn2V+nb0aM1Cx8SPrN79SNxlDxxVn6NjmN7eDxZtl4ROYGJXEBYK3OVBvEvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
+  "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

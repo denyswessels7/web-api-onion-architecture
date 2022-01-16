@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSWx5MsyJWRm6IbDFZCXYhtFEV8TziuXNiGqlyMBAtgsNYJVVEuo6cBHG4xDP5bAGCEOfufmbKXC/fXIch3e0A==",
+  "dgSpecHash": "XygglCsF2j5hHUm6rofZb7BXUa5pzO7ZAF91KLxz0/INUxqX3V0ApYrWU8oJZlmKBHu3AOGYuS4NR025CpEHlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Api.Tests\\OA.Api.Tests.csproj",
+  "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Api.Tests\\OA.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

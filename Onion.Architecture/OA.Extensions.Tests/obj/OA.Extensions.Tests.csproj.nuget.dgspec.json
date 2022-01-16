@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj": {}
+    "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj": {
+    "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
+        "projectUniqueName": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
         "projectName": "OA.Extensions.Tests",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
+        "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\OA.Extensions.Tests.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions.Tests\\obj\\",
+        "outputPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj": {
-                "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj"
+              "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj": {
+                "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj": {
+    "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
+        "projectUniqueName": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
         "projectName": "OA.Extensions",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
+        "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\OA.Extensions.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Extensions\\obj\\",
+        "outputPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

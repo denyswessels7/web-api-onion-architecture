@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Core\\OA.Core.csproj",
+      "projectUniqueName": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Core\\OA.Core.csproj",
       "projectName": "OA.Core",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Core\\OA.Core.csproj",
+      "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Core\\OA.Core.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Core\\obj\\",
+      "outputPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -151,8 +151,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj": {
-              "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj"
+            "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj": {
+              "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj"
             }
           }
         }

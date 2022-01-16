@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBm1sc/n/U/x1AF9+jRd0gZtbZ013O3fr3nUGiARZl+zUHW/HDQ1B1sqcTG2eqpWhvn7kY6xJ/VtYEo77fEH4A==",
+  "dgSpecHash": "Cy5zDKjQSrHvzZQRVgJVpARM1C1vsrWwM4/33azwgal5hj0SPs8bmk8q3IsenwRHDSB4+mt+eV9IstkSpVG8PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Persistance\\OA.Persistance.csproj",
+  "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Persistance\\OA.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

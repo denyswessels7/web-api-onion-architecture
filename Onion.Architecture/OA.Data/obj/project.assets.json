@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
+      "projectUniqueName": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
       "projectName": "OA.Data",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
+      "projectPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\OA.Data.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Data\\obj\\",
+      "outputPath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
