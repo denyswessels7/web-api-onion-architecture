@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\Onion.Architecture.Core.deps.json
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\Onion.Architecture.Core.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\ref\Onion.Architecture.Core.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\Onion.Architecture.Core.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\ref\Onion.Architecture.Core.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\OA.Data.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\bin\Debug\net5.0\OA.Data.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Core\obj\Debug\net5.0\Onion.Architecture.Core.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lROATDaMq6X8ddKxXJEbhEnZR5Ma0qUau46Hmvv/IKBy4Mkx8k6WAwkeuYDzsbosnJW04nm049B862ynoEkM7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Software Development\\DDD Architecture\\Onion.Architecture\\OA.Core\\OA.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

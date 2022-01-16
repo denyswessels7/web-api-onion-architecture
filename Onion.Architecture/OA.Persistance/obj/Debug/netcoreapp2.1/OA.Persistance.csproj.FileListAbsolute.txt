@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\OA.Persistance.deps.json
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\OA.Persistance.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\Onion.Architecture.Core.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\Onion.Architecture.Core.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.csproj.CopyComplete
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\OA.Persistance.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\obj\Debug\netcoreapp2.1\OA.Persistance.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\OA.Data.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\OA.Persistance\bin\Debug\netcoreapp2.1\OA.Data.pdb

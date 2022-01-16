@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\bin\Debug\netcoreapp3.1\OA.Data.deps.json
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\bin\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\bin\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\Denis\Desktop\Dev Architecture Test\Onion.Architecture\Onion.Architecture.Data\obj\Debug\netcoreapp3.1\OA.Data.csproj.AssemblyReference.cache

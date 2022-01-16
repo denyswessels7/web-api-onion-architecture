@@ -1,0 +1,1562 @@
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 3036.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 10216.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 17848.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 16648.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files (x86)\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 15972.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files (x86)\IIS Express\Asp.Net Core Module\V2\12.2.18292.0\aspnetcorev2_outofprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_outofprocess.dll] Initializing logs for 'C:\Program Files (x86)\IIS Express\Asp.Net Core Module\V2\12.2.18292.0\aspnetcorev2_outofprocess.dll'. Process Id: 15972.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2_outofprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_outofprocess.dll] FORWARDING_HANDLER::FORWARDING_HANDLER
+[aspnetcorev2_outofprocess.dll] Starting file watcher thread
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\serverprocess.cpp:730 
+[aspnetcorev2_outofprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to start process with commandline 'dotnet .\OA.Api.dll' , ErrorCode = '0x8027025b', processId '18420', processStatus '1'.' 
+End Event Log Message.
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\serverprocess.cpp:894 
+[aspnetcorev2_outofprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to start process with commandline 'dotnet .\OA.Api.dll' at stage 'PostStartCheck', ErrorCode = '0x8027025b', assigned port 25438, retryCounter '1'.' 
+End Event Log Message.
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\serverprocess.cpp:730 
+[aspnetcorev2_outofprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to start process with commandline 'dotnet .\OA.Api.dll' , ErrorCode = '0x8027025b', processId '9076', processStatus '1'.' 
+End Event Log Message.
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\serverprocess.cpp:894 
+[aspnetcorev2_outofprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to start process with commandline 'dotnet .\OA.Api.dll' at stage 'PostStartCheck', ErrorCode = '0x8027025b', assigned port 22162, retryCounter '0'.' 
+End Event Log Message.
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\serverprocess.cpp:948 
+[aspnetcorev2_outofprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to start process with commandline 'dotnet .\OA.Api.dll' with multiple retries. The last try of listening port is '22162'. See previous warnings for details.' 
+End Event Log Message.
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\processmanager.cpp:167 
+[aspnetcorev2_outofprocess.dll] Failed HRESULT returned: 0x8027025b at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\outofprocessrequesthandler\forwardinghandler.cpp:138 
+[aspnetcorev2_outofprocess.dll] FORWARDING_HANDLER::~FORWARDING_HANDLER
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 9472.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 14768.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'dotnet' arguments: '.\OA.Api.dll' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'dotnet.exe' is dotnet, treating application as portable
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet.exe'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = '.\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Event Log: 'Invoking hostfxr to find the inprocess request handler failed without finding any native dependencies. This most likely means the app is misconfigured, please check the versions of Microsoft.NetCore.App and Microsoft.AspNetCore.App that are targeted by the application and are installed on the machine.' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:80 
+[aspnetcorev2.dll] Event Log: 'Could not find inprocess request handler. Captured output from invoking hostfxr: ' 
+End Event Log Message.
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\handlerresolver.cpp:153 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:136 
+[aspnetcorev2.dll] Failed HRESULT returned: 0x8000ffff at c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\aspnetcore\applicationinfo.cpp:91 
+[aspnetcorev2.dll] Event Log: 'Failed to start application '/LM/W3SVC/4/ROOT', ErrorCode '0x8000ffff'.' 
+End Event Log Message.
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 9504.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 9504.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 21964.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 21964.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 17120.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 17120.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 12388.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 12388.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 1476.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 1476.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Stopping CLR
+[aspnetcorev2_inprocess.dll] Starting shutdown sequence 0
+[aspnetcorev2_inprocess.dll] Clr thread wait ended: clrThreadExited: 0
+[aspnetcorev2_inprocess.dll] Event Log: 'Failed to gracefully shutdown application 'MACHINE/WEBROOT/APPHOST/WEBAPPLICATION2'.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Canceling standard stream pipe reader
+[aspnetcorev2_inprocess.dll] Stopping in-process worker thread
+[aspnetcorev2_inprocess.dll] Event Log: 'Application '/LM/W3SVC/4/ROOT' with physical root 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' failed to load coreclr. Exception message:
+Managed server didn't initialize after 4294967295 ms.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] InvalidOperationException 'Managed server didn't initialize after 4294967295 ms.' caught at D:\a\_work\1\s\src\Servers\IIS\AspNetCoreModuleV2\InProcessRequestHandler\inprocessapplication.cpp:432 
+[aspnetcorev2_inprocess.dll] Failed HRESULT returned: 0x8007023e at D:\a\_work\1\s\src\Servers\IIS\AspNetCoreModuleV2\InProcessRequestHandler\dllmain.cpp:131 
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2.dll] ASPNET_CORE_GLOBAL_MODULE::OnGlobalStopListening
+[aspnetcorev2.dll] Stopping application '/LM/W3SVC/4/ROOT'
+[aspnetcorev2_inprocess.dll] Stopping file watcher thread
+[aspnetcorev2.dll] ASPNET_CORE_GLOBAL_MODULE::Terminate
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 3444.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 3444.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 11084.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 11084.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 21728.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 21728.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 23020.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 23020.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 21564.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 21564.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 1104.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 1104.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[aspnetcorev2_inprocess.dll] Removing Request 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 3716.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 3716.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 18484.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 18484.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 9076.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 9076.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 1988.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 1988.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[aspnetcorev2_inprocess.dll] Removing Request 1
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 3
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 4
+[aspnetcorev2_inprocess.dll] Removing Request 3
+[aspnetcorev2_inprocess.dll] Removing Request 2
+[aspnetcorev2_inprocess.dll] Removing Request 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 2
+[aspnetcorev2_inprocess.dll] Removing Request 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 23048.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 23048.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 7444.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 7444.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 7452.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 7452.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 2760.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 2760.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 22508.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 22508.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 16564.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 16564.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 13952.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 13952.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2.dll] Initializing logs for 'C:\Program Files\IIS Express\Asp.Net Core Module\V2\aspnetcorev2.dll'. Process Id: 8644.. File Version: 12.2.18292.0. Description: IIS ASP.NET Core Module V2. Commit: b92c82e97f19f77c95752340066a64a337551e6d.
+[aspnetcorev2.dll] Resolving hostfxr parameters for application: 'bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2.dll] Known dotnet.exe location: ''
+[aspnetcorev2.dll] Process path 'bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2.dll] Resolving absolute path to dotnet.exe from 'dotnet'
+[aspnetcorev2.dll] Invoking where.exe to find dotnet.exe
+[aspnetcorev2.dll] where.exe invocation returned: 'C:\Program Files\dotnet\dotnet.exe
+'
+[aspnetcorev2.dll] Current process bitness type detected as isX64=1
+[aspnetcorev2.dll] Processing entry 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Binary type 6
+[aspnetcorev2.dll] Found dotnet.exe via where.exe invocation at 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2.dll] c:\b\w\e37dd45d8cd1eaf4\modules\iisintegration\src\aspnetcoremodulev2\commonlib\fileoutputmanager.cpp:142 Operation failed with LastError: 32 HR: 0x80070020
+[aspnetcorev2.dll] Loading request handler:  'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'
+[aspnetcorev2.dll] Creating handler application
+[aspnetcorev2_inprocess.dll] Initializing logs for 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.13\aspnetcorev2_inprocess.dll'. Process Id: 8644.. File Version: 15.0.21326.13. Description: IIS ASP.NET Core Module V2 Request Handler. Commit: 55738ff96b832439076e25584cfe0eb3bace9b01.
+[aspnetcorev2_inprocess.dll] Waiting for initialization
+[aspnetcorev2_inprocess.dll] Starting in-process worker thread
+[aspnetcorev2_inprocess.dll] Resolving hostfxr parameters for application: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' arguments: '' path: 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Known dotnet.exe location: 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Process path 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.exe' is not dotnet, treating application as standalone or portable with bootstrapper
+[aspnetcorev2_inprocess.dll] Checking application.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Checking hostfxr.dll at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] hostfxr.dll found app local at 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\hostfxr.dll', treating application as portable with launcher
+[aspnetcorev2_inprocess.dll] Resolving absolute path to hostfxr.dll from 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] hostfxr.dll located at 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll'
+[aspnetcorev2_inprocess.dll] Parsed hostfxr options: dotnet location: 'C:\Program Files\dotnet\dotnet.exe' hostfxr path: 'C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll' arguments:
+[aspnetcorev2_inprocess.dll] Argument[0] = 'C:\Program Files\dotnet\dotnet.exe'
+[aspnetcorev2_inprocess.dll] Argument[1] = 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\bin\Debug\net5.0\OA.Api.dll'
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_ENVIRONMENT=Development
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_HTTPAUTH=anonymous;
+[aspnetcorev2_inprocess.dll] Setting environment variable ASPNETCORE_IIS_PHYSICAL_PATH=C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_DETAILEDERRORS=1
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_OPENBROWSER=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_SHOWURLS=False
+[aspnetcorev2_inprocess.dll] Setting environment variable WEBCONNECTION_USELIVERELOAD=False
+[aspnetcorev2_inprocess.dll] Loading hostfxr from location C:\Program Files\dotnet\host\fxr\5.0.13\hostfxr.dll
+[aspnetcorev2_inprocess.dll] Initial Dll directory: 'C:\Program Files\IIS Express', current directory: 'C:\Program Files\IIS Express'
+[aspnetcorev2_inprocess.dll] Setting current directory to C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\
+[aspnetcorev2_inprocess.dll] In-process callbacks set
+[aspnetcorev2_inprocess.dll] Event Log: 'Application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\' started successfully.' 
+End Event Log Message.
+[aspnetcorev2_inprocess.dll] Starting app_offline monitoring in application 'C:\Users\Denis\Desktop\Software Development\DDD Architecture\Onion.Architecture\OA.Api\'
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Starting file watcher thread
+[aspnetcorev2_inprocess.dll] Removing Request 0
+[aspnetcorev2_inprocess.dll] Adding request. Total Request Count 1
+[aspnetcorev2_inprocess.dll] Removing Request 0

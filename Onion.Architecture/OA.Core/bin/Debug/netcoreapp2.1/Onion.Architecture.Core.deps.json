@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Onion.Architecture.Core/1.0.0": {
+        "dependencies": {
+          "OA.Data": "1.0.0"
+        },
+        "runtime": {
+          "Onion.Architecture.Core.dll": {}
+        }
+      },
+      "OA.Data/1.0.0": {
+        "runtime": {
+          "OA.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Onion.Architecture.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OA.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

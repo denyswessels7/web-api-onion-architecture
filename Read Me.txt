@@ -1,0 +1,11 @@
+This project aims to showcase my knowledge of the following software development concepts:
+
+-In depth knowledge of the C# programming language
+-Knowledge of design patterns such as repository pattern and dependency injection
+-Knowledge of SOLID principles
+-Three tier(onion) architecture
+-Entity Framework
+-Web API
+-ASP.NET Core
+-React.js
+-Demonstrates sound senior architecture and full stack web development knowledge

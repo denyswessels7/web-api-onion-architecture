@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OA.Api</name>
+    </assembly>
+    <members>
+        <member name="T:OA.Api.Controllers.CustomerController">
+            <summary>
+            Contains a list of API calls related to the Customer entity
+            </summary>
+        </member>
+        <member name="M:OA.Api.Controllers.CustomerController.Get">
+            <summary>
+            Returns a list of all customers available
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OA.Api.Controllers.CustomerController.GetById(System.Int32)">
+            <summary>
+            Returns one customer with a specified matching id.Returns 404 if no match.
+            </summary>
+            <param name="id">Id of the customer in question</param>
+            <returns></returns>
+        </member>
+        <member name="M:OA.Api.Controllers.CustomerController.Post(OA.Data.Customer)">
+            <summary>
+            Adds a new customer to the system and returns the id of the newly created customer
+            </summary>
+            <param name="customer">Customer to be created.Required.Cannot be null</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
