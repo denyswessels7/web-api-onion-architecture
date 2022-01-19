@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qdkBwxb3vMec275IgDKsJx5t9NxMavhF54cdKidgTxHGH2bYjlUCKulv9WR2Ji85P3Kj+spqloC2aQs917yh8A==",
+  "dgSpecHash": "Sea6PY3p6bL6nHWYDegLD6wjALARVxLM1twvNt3/RzOflfuoIXmS82XTBA2hWM6PDVAcgoplUkpSQs1TairMSA==",
   "success": true,
   "projectFilePath": "C:\\Git\\web-api-onion-architecture\\Onion.Architecture\\OA.UI\\OA.UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

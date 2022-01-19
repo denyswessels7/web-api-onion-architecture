@@ -36,3 +36,9 @@ C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.U
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.UI.genruntimeconfig.cache
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\obj\Debug\net5.0\OA.UI.csproj.CopyComplete
 C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\web.config
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Core.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Data.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Extensions.dll
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Core.pdb
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Data.pdb
+C:\Git\web-api-onion-architecture\Onion.Architecture\OA.UI\bin\Debug\net5.0\OA.Extensions.pdb

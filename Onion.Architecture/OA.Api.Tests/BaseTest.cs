@@ -28,7 +28,4 @@ namespace OA.Api.Tests
             get { return _statusCodes[code]; }
         }
     }
-
-
-
 }

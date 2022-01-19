@@ -10,6 +10,7 @@ namespace OA.Core.Extensions
         public static void AddServices(this IServiceCollection serviceCollection, IConfiguration config)
         {
             serviceCollection.AddScoped<ICustomerService, CustomerService>();
+            serviceCollection.AddScoped<IApiService, ApiService>();
         }
     }
 }

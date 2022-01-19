@@ -9,4 +9,10 @@
     <Folder Include="Views\Shared\Components\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OA.Core\OA.Core.csproj" />
+    <ProjectReference Include="..\OA.Data\OA.Data.csproj" />
+    <ProjectReference Include="..\OA.Extensions\OA.Extensions.csproj" />
+  </ItemGroup>
+
 </Project>
